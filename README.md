@@ -1,6 +1,6 @@
 ## Repositório de Planeamento e Gestão de Projecto
 
-*** Atenção ***
+** Atenção **
 ### Cada vez que editar ficheiros deste repositório no seu computador, faça:
 
 ````
